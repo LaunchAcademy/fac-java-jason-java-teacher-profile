@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sam",
+    "favorite_language": "ruby",
+    "years_experience": "2"
+  },
+  {
+    "name": "Christine",
+    "favorite_language": "java",
+    "years_experience": "3"
+  },
+  {
+    "name": "Susan",
+    "favorite_language": "javascript",
+    "years_experience": "20"
+  }
+]
