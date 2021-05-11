@@ -3,12 +3,6 @@ public class Teacher {
   private String favoriteLanguage;
   private int yearsExperience;
 
-  public Teacher(String name, String favoriteLanguage, int yearsExperience) {
-    this.name = name;
-    this.favoriteLanguage = favoriteLanguage;
-    this.yearsExperience = yearsExperience;
-  }
-
   public String getName() {
     return name;
   }
@@ -19,5 +13,17 @@ public class Teacher {
 
   public int getYearsExperience() {
     return yearsExperience;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public void setFavoriteLanguage(String favoriteLanguage) {
+    this.favoriteLanguage = favoriteLanguage;
+  }
+
+  public void setYearsExperience(int yearsExperience) {
+    this.yearsExperience = yearsExperience;
   }
 }
