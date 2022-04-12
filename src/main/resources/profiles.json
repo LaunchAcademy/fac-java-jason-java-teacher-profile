@@ -13,5 +13,10 @@
     "name": "Susan",
     "favorite_language": "javascript",
     "years_experience": "20"
+  },
+  {
+    "name": "Sally",
+    "favorite_language": "javascript",
+    "years_experience": "5"
   }
 ]
